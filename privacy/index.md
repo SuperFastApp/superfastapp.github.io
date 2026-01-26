@@ -80,4 +80,3 @@ We may update our Privacy Policy from time to time. We will notify you of any ch
 If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at:
 
 **Email:** [wjxforu@gmail.com](mailto:wjxforu@gmail.com)
-**Developer:** MoonIris Studio
