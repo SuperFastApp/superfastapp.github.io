@@ -2,8 +2,6 @@
 title: Privacy Policy
 ---
 
-# Privacy Policy
-
 **Last Updated:** January 1, 2026
 
 ## 1. Introduction
