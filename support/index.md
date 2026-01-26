@@ -2,8 +2,6 @@
 title: Support
 ---
 
-# MoonIris Studio Support
-
 Welcome to the official support page for **MoonIris Studio**. We build high-quality utility and lifestyle apps to make your life easier and more interesting.
 
 ## 📮 Contact Support
