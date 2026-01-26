@@ -46,6 +46,3 @@ A: Ghost Mode is an entertainment feature designed to visualize sensor data in a
 **Q: How to save recipes?**  
 A: Tap the bookmark icon to save recipes to your local collection.
 
----
-
-© 2026 MoonIris Studio.
