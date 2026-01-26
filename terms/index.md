@@ -2,8 +2,6 @@
 title: Terms of Service
 ---
 
-# Terms of Service
-
 **Last Updated:** January 1, 2026
 
 ## 1. Introduction
