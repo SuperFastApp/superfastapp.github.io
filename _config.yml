@@ -3,3 +3,13 @@ theme: minima
 
 author: MoonIris Studio
 description: "© 2026 MoonIris Studio"
+
+header_pages:
+  - support/index.md
+  - privacy/index.md
+  - terms/index.md
+
+header_pages_cn:
+  - support/cn/index.md
+  - privacy/cn/index.md
+  - terms/cn/index.md
